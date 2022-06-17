@@ -1,9 +1,10 @@
 # PySpark
-This project aims to several data analysis/machine learning tasks using PySpark, an interface for Apache Spark in Python. These tasks include:
+This project aims to solve several data analysis/machine learning tasks using PySpark, an interface for Apache Spark in Python. These tasks include:
 * word count
-* mutual friend recommentdation
+* mutual friend recommendation
 * frequent pattern mining
-* K-Means & PCA
+* K-means
+* principal component analysis
 * collaborative filtering
 * PageRank
 * node2vec
